@@ -23,7 +23,6 @@ spring:
         database: MYSQL
         hibernate:
             ddl-auto: update
-            naming:
         properties:
             hibernate:
                 dialect: org.hibernate.dialect.MySQL5Dialect
