@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * 湿度实体
+ * 光照强度实体
  */
 @Entity
 @Data
