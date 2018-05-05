@@ -32,9 +32,9 @@ spring:
             hibernate:
                 dialect: org.hibernate.dialect.MySQL5Dialect
         show-sql: true
-#    security:
-#        user:
-#            name: zwt
-#            password: se1124
+    security:
+        user:
+            name: zwt
+            password: se1124
     
 
